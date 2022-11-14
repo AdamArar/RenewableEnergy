@@ -1,0 +1,53 @@
+Title:,Renewable Energy from the Energy Totals Database,,,,,,,,,,
+SubTitle:,USA - Category: Solar Energy Consumption,,,,,,,,,,
+Time:,1984 - 2022,,,,,,,,,,
+Unit of Measure:,Trillion Btu,Trillion Btu,Trillion Btu,Trillion Btu,Trillion Btu,Trillion Btu,Trillion Btu,Trillion Btu,Trillion Btu,Trillion Btu,Trillion Btu
+Citation:,"US Department of Energy, Energy Information Administration (2022-10-27). Energy Totals: Renewable Energy | Solar Energy Consumption | Utility-Scale Solar Energy Consumption for Electricity: Commercial Sector, Annual | Distributed Solar Energy Consumption for Electricity:  Commercial Sector, Annual | Distributed Solar Energy Consumption:  Total, Annual | Utility-Scale Solar Energy Consumption for Electricity:  Electric Power Sector , Annual | Utility-Scale Solar Energy Consumption for Electricity: Industrial Sector, Annual | Distributed Solar Energy Consumption for Electricity:  Industrial Sector, Annual | Distributed Solar Energy Consumption for Electricity:  Residential Sector, Annual | Utility-Scale Solar Energy Consumption: Total, Annual | Distributed Solar Energy Consumption for Electricity:  Total, Annual | Distributed Solar Energy Consumption for Heat:  Total, Annual | Solar/PV Energy Consumption/Production, Annual, 1984 - 2022. Data Planet? Statistical Datasets: A SAGE Publishing Resource. (Dataset). Dataset-ID:  004-022-010 doi:https://doi.org/10.6068/DP18476506F6E5",,,,,,,,,,
+ColumnCount:,12,,,,,,,,,,
+RowCount:,39,,,,,,,,,,
+,,,,,,,,,,,
+Time,"Solar Energy Consumption, Utility-Scale Solar Energy Consumption for Electricity: Commercial Sector, Annual (Trillion Btu)","Solar Energy Consumption, Distributed Solar Energy Consumption for Electricity:  Commercial Sector, Annual (Trillion Btu)","Solar Energy Consumption, Distributed Solar Energy Consumption:  Total, Annual (Trillion Btu)","Solar Energy Consumption, Utility-Scale Solar Energy Consumption for Electricity:  Electric Power Sector , Annual (Trillion Btu)","Solar Energy Consumption, Utility-Scale Solar Energy Consumption for Electricity: Industrial Sector, Annual (Trillion Btu)","Solar Energy Consumption, Distributed Solar Energy Consumption for Electricity:  Industrial Sector, Annual (Trillion Btu)","Solar Energy Consumption, Distributed Solar Energy Consumption for Electricity:  Residential Sector, Annual (Trillion Btu)","Solar Energy Consumption, Utility-Scale Solar Energy Consumption: Total, Annual (Trillion Btu)","Solar Energy Consumption, Distributed Solar Energy Consumption for Electricity:  Total, Annual (Trillion Btu)","Solar Energy Consumption, Distributed Solar Energy Consumption for Heat:  Total, Annual (Trillion Btu)","Solar Energy Consumption, Solar/PV Energy Consumption/Production, Annual (Trillion Btu)"
+1984,,,,0.05,,,,0.05,,,0.05
+1985,,,,0.11,,,,0.11,,,0.11
+1986,,,,0.15,,,,0.15,,,0.15
+1987,,,,0.11,,,,0.11,,,0.11
+1988,,,,0.09,,,,0.09,,,0.09
+1989,,0.18,51.87,2.61,,0.04,0.11,2.61,0.32,51.55,54.48
+1990,,0.2,54.97,3.82,,0.04,0.12,3.82,0.37,54.6,58.79
+1991,,0.22,56.72,4.92,,0.05,0.14,4.92,0.41,56.31,61.64
+1992,,0.24,58.77,4.13,,0.05,0.15,4.13,0.45,58.32,62.9
+1993,,0.27,60.45,4.77,,0.06,0.16,4.77,0.49,59.96,65.21
+1994,,0.3,62.13,5.02,,0.07,0.18,5.02,0.55,61.59,67.15
+1995,,0.34,63.14,5.12,,0.08,0.21,5.12,0.63,62.52,68.26
+1996,,0.39,63.78,5.39,,0.09,0.24,5.39,0.72,63.06,69.17
+1997,,0.43,62.99,5.22,,0.1,0.27,5.22,0.8,62.19,68.21
+1998,,0.49,62.37,5.12,,0.11,0.3,5.12,0.9,61.47,67.5
+1999,,0.57,61.06,5.06,,0.13,0.35,5.06,1.05,60.01,66.12
+2000,,0.65,58.5,5.03,,0.14,0.4,5.03,1.19,57.31,63.53
+2001,,0.79,56.14,5.61,,0.18,0.49,5.61,1.46,54.69,61.75
+2002,,0.93,54.42,5.64,,0.2,0.57,5.64,1.7,52.72,60.07
+2003,,1.08,53.13,5.41,,0.24,0.66,5.41,1.97,51.15,58.53
+2004,,1.32,52.74,5.76,,0.29,0.81,5.76,2.42,50.32,58.5
+2005,,1.98,52.58,5.5,,0.44,1.21,5.5,3.62,48.96,58.08
+2006,,2.86,55.99,5.04,,0.63,1.75,5.04,5.24,50.75,61.03
+2007,,4.02,59.96,6.05,,0.89,2.47,6.05,7.38,52.58,66
+2008,0,6.44,66.3,8.52,,1.43,3.95,8.52,11.82,54.48,74.82
+2009,0,8.57,70.29,8.7,,1.9,5.26,8.7,15.73,54.56,78.99
+2010,0.05,13.09,80.7,11.76,0.02,2.9,8.78,11.83,24.76,55.94,92.53
+2011,0.81,21.28,96.79,16.78,0.06,4.71,13.19,17.66,39.19,57.6,114.45
+2012,1.41,34.58,121.07,39.63,0.14,7.66,19.59,41.17,61.82,59.26,162.25
+2013,2.8,38.78,138.79,83.24,0.17,8.59,30.69,86.21,78.06,60.73,225
+2014,3.52,48.94,169.18,164.56,0.16,10.84,47.05,168.24,106.82,62.36,337.42
+2015,3.88,53.02,194.76,227.9,0.2,13.53,65.22,231.98,131.76,62.99,426.73
+2016,4.89,56.85,237.37,327.71,0.25,19.02,97.81,332.85,173.68,63.69,570.22
+2017,4.8,70.8,285.99,485.74,0.39,21.78,128.44,490.93,221.02,64.97,776.92
+2018,4.78,89.2,334.04,575.85,0.43,24,155.72,581.07,268.93,65.11,915.1
+2019,5.23,97.97,376.46,634.61,0.76,27.08,186.24,640.6,311.3,65.17,1017.06
+2020,5.14,112.82,429.7,776.51,0.89,30.57,220.89,782.54,364.28,65.42,1212.24
+2021,5.74,132.66,495.16,998.99,1.35,33.77,263.66,1006.07,430.09,65.07,1501.23
+2022,,,,,,,,,,65.22,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Publisher:," ""Energy Information Administration""",,,,,,,,,,
+Copyright:," ""The data contained in Data Planet(tm): A SAGE Publishing Resource is made available via license agreement with subscribing organizations. Your organization's license may vary from this version.""",,,,,,,,,,
